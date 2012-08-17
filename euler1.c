@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 {
     int i = 0 ;
     int sum = 0;
-    for(;i<10;i++)
+    for(;i<1000;i++)
     {
         if (i % 3 == 0 || i % 5 == 0 )
         {
